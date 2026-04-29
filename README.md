@@ -18,10 +18,6 @@ Browser → API Gateway (HTTP API) → AWS Lambda → Returns HTML
 - Public URL via API Gateway Invoke URL
 - Custom route: GET /home
 
-## Screenshots
-![Lambda Function](screenshots/lambda-function.png)
-![Deployed Code](screenshots/deployed-code.png)
-![Browser Output](screenshots/browser-output.png)
 
 ## What I Learned
 - How to serve HTML directly from a Lambda function
